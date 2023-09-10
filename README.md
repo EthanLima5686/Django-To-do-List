@@ -1,2 +1,2 @@
 # Django-To-do-List
- A simple to-do list made with Python and Django
+ A simple to-do list made with Python and Django (Work in progress)
